@@ -7,8 +7,9 @@
 
 ## Introducion a JS
 
-JavaScript es un lenguaje de Scripting , confrma un dialecto **ECMAScript** .
-JS paso de ser un  lenguaje  considerado inmaduro a ser el lenguaje mas usado al dia de hoy. En la actualidad contamos con un ecosistema proprio de JS :
+JavaScript es un lenguaje de Scripting , conforma un dialecto de  **ECMAScript**.
+
+JS paso de ser un  lenguaje  considerado inmaduro a ser el lenguaje mas usado al dia de hoy. En la actualidad contamos con un ecosistema propio :
     
 - ES6
 - NodeJS
@@ -47,4 +48,7 @@ En el Backen-end  tenemos :
 - Node Js
 - NPM
 
+## Los Fundamentos
+
+- <a href="https://github.com/mrneurus/fundamentosJs/blob/master/variables/variables.md">Variables</a>
 
