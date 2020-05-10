@@ -1,0 +1,2 @@
+# Strings (Cadenas) en JavaScript 
+

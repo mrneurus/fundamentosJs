@@ -78,3 +78,12 @@ Puedes nombrar a una variable casi como quieras, pero hay limitaciones. Generalm
 - Las variables son case sensitive — eso quiere decir que myedad es una variable diferente de myEdad.
 
 - No se debe usar palabras reservadas para nombrar variables — con esto, nos referimos a las palabras que conforman la sintaxis de Javascript. Por lo tanto no puede usar palabras como ***var**, ***function***, ***let***, y ***for*** para nombrar variables, ya que generará errores.
+
+
+## Conts : :
+
+```javascript
+const nombre = 'JUAN'
+```
+
+En el caso de conts, se trata de una constante que una vez que es asignada es ininmutable, es decir no la podemos reasignar.Las constantes a diferencia de let o var si o si se deben inicializar y asignar en el momento de su creacion.
