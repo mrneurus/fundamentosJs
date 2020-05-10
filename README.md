@@ -52,3 +52,5 @@ En el Backen-end  tenemos :
 
 - <a href="https://github.com/mrneurus/fundamentosJs/blob/master/variables/variables.md">Variables</a>
 
+- <a href="https://github.com/mrneurus/fundamentosJs/blob/master/strings/strings.md">Strings</a>
+
