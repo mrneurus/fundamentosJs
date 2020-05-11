@@ -54,3 +54,5 @@ En el Backen-end  tenemos :
 
 - <a href="https://github.com/mrneurus/fundamentosJs/blob/master/strings/strings.md">Strings</a>
 
+- <a href="https://github.com/mrneurus/fundamentosJs/blob/master/numbers/numbers.md">Numbers</a>
+
