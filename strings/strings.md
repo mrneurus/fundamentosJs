@@ -70,3 +70,32 @@ En JS, ya contamos por defecto con varias funciones para poder manipular los Str
         let funcionBusqueda = 'JavaScript elementoJS'
         console.log(funcionBusqueda.indexOf('elementoJS')) 
     ```
+
+- substrings : Nos permite recortar o substraer una parte de la cadena.
+     ```javascript
+        let funcionExtraer = 'JavaScript elementoJS'
+        console.log(funcionExtraer.substring(3,11)) 
+    ```
+- slice : Nos permite recortar o substraer desde el final de la cadena.
+     ```javascript
+        let funcionFinal = 'JavaScript elementoJS'
+        console.log(funcionFInal.slice(-10)) 
+    ```
+
+- split : Nos permite atomizar la cadena.
+     ```javascript
+        let funcionAtomica = 'JavaScript elementoJS'
+        console.log(funcionAtomica.split(', ')) 
+    ```
+- replace : Nos permite buscar y remplazar en una cadena.
+     ```javascript
+        let funcionReemplazo = 'JavaScript elementoJS'
+        console.log(funcionAtomica.replace('JavaScript','JS')) 
+    ```
+
+- includes : busca en una cadena, y si encuentra el valor buscado, devuelve true.
+     ```javascript
+        let funcionIncluido = 'JavaScript elementoJS'
+        console.log(funcionIncluido.includes('JavaScript')) 
+    ```
+
